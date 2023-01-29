@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        int bill=100;
-        int amount=8000;
+        int bill = 100;
+        int amount = 8000;
         int bonus;
         int finalbill;
         if (amount > 1000) {
